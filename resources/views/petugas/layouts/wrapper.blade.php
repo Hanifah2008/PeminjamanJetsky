@@ -1,0 +1,5 @@
+@include('petugas.layouts.head')
+@include('petugas.layouts.header')
+@include('petugas.layouts.sidebar')
+@include('petugas.layouts.content')
+@include('petugas.layouts.footer')
